@@ -1,7 +1,8 @@
 ## Hi there 👋
 ## My name is Litance✨
 ## A student studying on Diploma in Computer Science Y1S1🎓
-## Aspire to become a Machine Learning Engineer🧑‍💻
+## Aspire to become a Senior Solfware Engineering🧑‍💻
+## Target is PhD in Computer Science
 
 <!--
 **litance/litance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
