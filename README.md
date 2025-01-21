@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## My name is Litance✨
-## A student studying on Diploma in Computer Science Y1S1🎓
+## A student studying on Diploma in Computer Science Y1S2🎓
 ## Aspire to become a Senior Solfware Engineering🧑‍💻
 ## Target is PhD in Computer Science
 
