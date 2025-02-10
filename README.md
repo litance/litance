@@ -1,6 +1,6 @@
 # Hi there, I'm Litance! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with an interest in various technologies and a love for coding. Here's a bit about me:
+Welcome to my GitHub profile! I am a Computer Science student, currently working on implementing all ideas, including but not limited to: Deep Learning, Machine Learning, OpenCV, Data Analysis, Web Development, Program Development. Here's a bit about me:
 
 ## 🚀 About Me
 
@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer with an interest in var
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, C++
+- **Languages:** Python, C++, Java, Javascripts
 - **Frameworks:** ---
 - **Tools:** Git, VS Code
 
@@ -22,16 +22,12 @@ Welcome to my GitHub profile! I'm a passionate developer with an interest in var
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/litance)
-- [Twitter](https://twitter.com/litance)
-- [Blog](https://blog.litance.com)
+- [LinkedIn](www.linkedin.com/in/jia-ming-lee-5a34b033a)
+- [Introduce](https://litance.github.io/litancepage/)
 
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the Basics of Kubernetes](https://blog.litance.com/kubernetes-basics)
-- [A Guide to Modern JavaScript](https://blog.litance.com/modern-javascript)
-- [Advanced Data Structures in Python](https://blog.litance.com/advanced-data-structures-python)
 <!-- BLOG-POST-LIST:END -->
 
 *Thanks for visiting my profile! Feel free to explore my repositories and reach out if you’d like to collaborate on a project.*
