@@ -11,10 +11,13 @@ Welcome to my GitHub profile! I am a Computer Science student, currently working
 - 📫 How to reach me: [leejm-wm24@student.tarc.edu.my](mailto:leejm-wm24@student.tarc.edu.my)
 
 ## 🛠️ Technologies & Tools
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,python,java,mysql)](https://skillicons.dev)
 
-- **Languages:** Python, C++, Java, Javascripts
-- **Frameworks:** ---
-- **Tools:** Git, VS Code
+[![My Tools](https://skillicons.dev/icons?i=anaconda,ubuntu,git,github,linux,pycharm,visualstudio,vscode)](https://skillicons.dev)
+
+ML.DL Skills
+
+[![My Own Skills](https://skillicons.dev/icons?i=matlab,opencv,pytorch,sklearn,tensorflow,)](https://skillicons.dev)
 
 ## 📈 GitHub Stats
 
