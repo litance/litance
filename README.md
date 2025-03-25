@@ -26,7 +26,7 @@ ML.DL Skills
 ## 📫 Connect with Me
 
 - [LinkedIn](www.linkedin.com/in/jia-ming-lee-5a34b033a)
-- [Introduce](litance.me)
+- [Introduce](www.litance.me)
 
 ## 📝 Latest Blog Posts
 
