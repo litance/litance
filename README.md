@@ -1,4 +1,4 @@
-# Hi there, I'm Litance! 👋
+  # Hi there, I'm Litance! 👋
 
 Welcome to my GitHub profile! I am a Computer Science student, currently working on implementing all ideas, including but not limited to: Deep Learning, Machine Learning, OpenCV, Data Analysis, Web Development, Program Development. Here's a bit about me:
 
@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I am a Computer Science student, currently working
 - 👯 I’m looking to collaborate on exciting projects and innovative ideas.
 - 📝 I regularly write articles on my blog about tech and programming.
 - 📫 How to reach me: [leejm-wm24@student.tarc.edu.my](mailto:leejm-wm24@student.tarc.edu.my)
+- Current working for IEEE TIP project(secret) :) 
 
 ## 🛠️ Technologies & Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,python,java,mysql)](https://skillicons.dev)
