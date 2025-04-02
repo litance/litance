@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I am a Computer Science student, currently working
 - 👯 I’m looking to collaborate on exciting projects and innovative ideas.
 - 📝 I regularly write articles on my blog about tech and programming.
 - 📫 How to reach me: [leejm-wm24@student.tarc.edu.my](mailto:leejm-wm24@student.tarc.edu.my)
-- Current working for IEEE TIP project(secret) :) 
+- Current working for DualNet-VerifyBoost:) 
 
 ## 🛠️ Technologies & Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,python,java,mysql)](https://skillicons.dev)
