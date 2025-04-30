@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I am a Computer Science student, currently working on implementing all ideas, including but not limited to: Deep Learning, Machine Learning, OpenCV, Data Analysis, Web Development, Program Development. Here's a bit about me:
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=litance)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 🚀 About Me
 
 - 💻 I'm currently working on various open-source projects.
