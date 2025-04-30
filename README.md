@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I am a from Computer Science course, currently wor
 - 🌱 I’m currently learning advanced algorithms and data structures.
 - 👯 I’m looking to collaborate on exciting projects and innovative ideas.
 - 📝 I regularly write articles on my blog about tech and programming.
-- 📫 How to reach me: [leejm-wm24@student.tarc.edu.my](mailto:leejm-wm24@student.tarc.edu.my)
+- 📫 How to reach me: [Click Here](mailto:leejm-wm24@student.tarc.edu.my)
 - Current working for DualNet-VerifyBoost:) 
 
 ## 🛠️ Technologies & Tools
